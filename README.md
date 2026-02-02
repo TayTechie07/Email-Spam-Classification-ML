@@ -37,7 +37,8 @@ This project implements a machine learning–based email spam classifier that au
 
 ### 4. Model Evaluation
 - **Accuracy:** 0.9731  
-- **Confusion Matrix:**  
+- **Confusion Matrix:**  [[965 0]
+                         [ 30 120]]
 
 ## How to Run
 1. Clone the repository  
